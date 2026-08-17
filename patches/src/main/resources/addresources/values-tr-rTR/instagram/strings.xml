@@ -292,4 +292,6 @@
     <string name="piko_filter_story_maximum_item_count">Maksimum hikaye öğesi sayısı</string>
     <string name="piko_filter_story_maximum_item_count_desc">x\'ten fazla öğe içeren hikayeler gizlenecektir (varsayılan 9999).</string>
     <!-- Save & view deleted (unsent) direct messages -->
+    <string name="piko_clear">Temizle</string>
+    <string name="piko_media_activity">aktivite</string>
 </resources>

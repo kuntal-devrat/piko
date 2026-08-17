@@ -321,6 +321,7 @@
     <string name="piko_someone">Alguém</string>
     <string name="piko_deleted_messages_channel">Excluir mensagens</string>
     <string name="piko_deleted_messages_channel_desc">Notifica quando uma mensagem recebida não é enviada</string>
+    <string name="piko_media_label">[%s]</string>
     <string name="piko_media_deleted">[%s excluído]</string>
     <string name="piko_media_deleted_generic">[excluído]</string>
     <string name="piko_media_unknown">mídia</string>

@@ -140,6 +140,8 @@
     <string name="piko_pref_search_suggestion_desc">[話題を検索] タブの検索候補を非表示または削除します</string>
     <string name="piko_legacy_share_link">旧式の共有リンク</string>
     <string name="piko_block_redirecting_to_x_lite">X Liteへのリダイレクトを無効化</string>
+    <string name="piko_pref_block_update_screen">アップデート要求画面をブロック</string>
+    <string name="piko_pref_block_update_screen_desc">「このアプリは旧バージョンのため利用できません」というアプリのアップデートを要求する画面をブロックします</string>
     <!-- Feature flags Settings -->
     <string name="piko_title_feature_flags">機能フラグ</string>
     <string name="piko_pref_feature_flags">機能フラグを追加</string>
